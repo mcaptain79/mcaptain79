@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mcaptain79
 - 👀 I’m interested in Video Game Development and Artificial Intelligence
 - 🌱 I’m currently learning Approximation Algorithms
-- 💞️ I’m looking to collaborate on هیچ چیز
 - 📫 How to reach me meymani79@gmail.com
 
 <!---
