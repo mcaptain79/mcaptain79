@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mcaptain79
+- 👋 Hi, I’m Mohammad Meymani
 - 👀 I’m interested in Video Game Development and Artificial Intelligence
-- 🌱 I’m currently learning Approximation Algorithms
+- 🌱 I’m currently learning PyG
 - 📫 How to reach me meymani79@gmail.com
 
 <!---
